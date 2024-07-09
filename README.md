@@ -6,7 +6,7 @@
 
 void anD(void)
 {
-CYBIT inA;
+ CYBIT inA;
     CYBIT inB;
     CYBIT out1_1,out1_2,out1_3,out1_4;
     CYBIT out2_1,out2_2,out2_3,out2_4;
